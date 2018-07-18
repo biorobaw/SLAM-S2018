@@ -1,3 +1,4 @@
-/Users/Anny/Projects/SLAM-S2018/build/CMakeFiles/rebuild_cache.dir
-/Users/Anny/Projects/SLAM-S2018/build/CMakeFiles/edit_cache.dir
-/Users/Anny/Projects/SLAM-S2018/build/CMakeFiles/camera_calibration.dir
+/home/anny/Documents/SLAM-S2018/build/CMakeFiles/rebuild_cache.dir
+/home/anny/Documents/SLAM-S2018/build/CMakeFiles/ORB_SLAM2.dir
+/home/anny/Documents/SLAM-S2018/build/CMakeFiles/edit_cache.dir
+/home/anny/Documents/SLAM-S2018/build/CMakeFiles/main.dir
